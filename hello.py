@@ -1,1 +1,1 @@
-print ('hello dear')
+print ('hello apa kabar dear')
